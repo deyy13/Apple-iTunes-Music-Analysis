@@ -1,9 +1,7 @@
 # 🎵 Apple iTunes Music Store — Data Analysis Report
-
-**Analyst:** Kalpana Naidu  
+ 
 **Tool:** MySQL, Power BI  
 **Dataset:** iTunes Relational Database (11 Tables)  
-**Date:** May 2026
 
 ---
 
